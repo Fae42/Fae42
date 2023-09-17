@@ -1,16 +1,15 @@
-### Hi there 👋
+# 基本信息 Basic Information
 
-<!--
-**Fae42/Fae42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+学生，南方科技大学24届。
 
-Here are some ideas to get you started:
+The Class of 2024 at Southern University of Science and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 技能概述 Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennyhuo&hide=HTML,css,php&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# 相关网站 Related Websites
+
+**个人主页/Personal Website**：https://fae42.github.io/
+
+**GitHub**：https://github.com/Fae42
