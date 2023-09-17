@@ -10,6 +10,6 @@ The Class of 2024 at Southern University of Science and Technology.
 
 # 相关网站 Related Websites
 
-**个人主页/Personal Website**：https://fae42.github.io/
+**个人博客/Personal Blog**：https://fae42.github.io/
 
 **GitHub**：https://github.com/Fae42
